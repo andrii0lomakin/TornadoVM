@@ -8,7 +8,7 @@ These need to be installed before executing either automatic or manual TornadoVM
 
 * GCC >= 10.0 or LLVM/clang (Linux)
 * Xcode >= 15 (macOS only)
-* Visual Studio Community 2022 (Windows only)
+* Visual Studio Community 2022 (Windows only) or Cmake installed using WinGet (``winget install -e --id Kitware.CMake`` on PowerShell)
 * Python >= 3.6 (all OSes)
 * At least one of following drivers:
       * OpenCL drivers: GPUs and CPUs >= 2.1, FPGAs >= 1.0
